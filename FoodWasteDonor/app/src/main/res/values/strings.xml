@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food Donor</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="have_not_account">"Have not account ? "</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Save</string>
+    <string name="enter_address">Enter Address</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pendingDonationId"
+        android:title="Pending Donation"/>
+    <item android:id="@+id/approvedDonationId"
+        android:title="Approved Donation"/>
+    <item android:id="@+id/deliveredDonationId"
+        android:title="Delivered Donation"/>
+    <item android:id="@+id/rejectedDonationId"
+        android:title="Rejected Donation"/>
+    <item android:id="@+id/exitId"
+        android:title="Exit"/>
+
+</menu>

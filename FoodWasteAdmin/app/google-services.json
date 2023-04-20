@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "216281982919",
+    "firebase_url": "https://foodwaste-70b7d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foodwaste-70b7d",
+    "storage_bucket": "foodwaste-70b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216281982919:android:d45dc0030724a5b2315be2",
+        "android_client_info": {
+          "package_name": "com.emranbdx.foodwasteadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216281982919-k48a21cckr7te3v1fuoekkkci05v9bkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXzQhZcLOA9vx5j2p-OPN4MDAD1x7MF_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216281982919-k48a21cckr7te3v1fuoekkkci05v9bkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216281982919:android:cc688128f25245a0315be2",
+        "android_client_info": {
+          "package_name": "com.emranbdx.foodwastedonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216281982919-k48a21cckr7te3v1fuoekkkci05v9bkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXzQhZcLOA9vx5j2p-OPN4MDAD1x7MF_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216281982919-k48a21cckr7te3v1fuoekkkci05v9bkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
